@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pt">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pt" authors="Mark Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11159</md:content-id>
-    <md:title>Informações Úteis Psicologia (Resenhas de idéias importantes e Investigação)</md:title>
+    <md:title>Informa&#xE7;&#xF5;es &#xDA;teis Psicologia (Resenhas de id&#xE9;ias importantes e Investiga&#xE7;&#xE3;o)</md:title>
     <md:language>pt</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>b0061b02-a83d-46a9-8a82-34abf7f6f9a9</md:uuid>
-<md:slug>informacoes-uteis-psicologia-resenhas-de-ideias-importantes-e-investigacao</md:slug>
-</metadata>
+    <md:slug>informacoes-uteis-psicologia-resenhas-de-ideias-importantes-e-investigacao</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33295"/>
     <col:module document="m33296"/>
